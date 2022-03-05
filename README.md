@@ -1,16 +1,50 @@
-### Hi there 👋
+## Opa, me chamo Bruno! 
+#### fique à vontade 😉
 
-<!--
-**BrunoCalves/BrunoCalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Sobre mim ✌</h2>
+<br>
+Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre chamaram a minha atenção, por isso tomei a iniciativa de me matricular no curso de análise e desemvolivmento de software na Universidade Estácio de Sá, buscando uma transição na minha carreira profissional.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://c.tenor.com/kjN84Zfd_vIAAAAC/monkey-computer.gif"/>
+<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">✍ atualmente estou aprendendo:</h2>
+
+- Python
+- PostgreSQL
+
+  <br/>
+  <br/>
+ <h2 align="center">⚒ Ferramentas que uso:</h2>
+<p>
+<p align="center">
+  <br/>
+  <br/>
+<a target="_blank"><img alt="GitHub" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true"/></a>
+<a target="_blank"><img alt="GitHub" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true"/></a>
+  <br/>
+  <br/>
+    </p>
+<h2 align="center">🔎 Me encontre em:</h2>
+<br/>
+
+<p align="center"><a 
+href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
+src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png?raw=true?´" /></a> <a                      
+href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" 
+src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png?raw=true" /></a> <a 
+href="" target="_blank"><img alt="Github" 
+src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png" /></a> <a                                                                                     
+href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" /></a> <a 
+</p>
+<p align="center">
+<img src="https://github.com/pedrorivald/bandeira-brasil/raw/master/estrelas.PNG" width="210" height="99"/>
+<br>
+</p>
