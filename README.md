@@ -2,7 +2,7 @@
 
 <h2 align="center"> Sobre mim ✌</h2>
 <br>
-Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre chamaram a minha atenção, por isso tomei a iniciativa de me matricular no curso de análise e desemvolivmento de software na Universidade Estácio de Sá, buscando uma transição na minha carreira profissional.
+Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre chamaram a minha atenção, por isso tomei a iniciativa de me matricular no curso de análise e desemvolivmento de software, buscando uma transição na minha carreira profissional.
 <br>
 <br>
 <br>
