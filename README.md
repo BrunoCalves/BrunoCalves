@@ -1,5 +1,4 @@
-## Opa, me chamo Bruno! 
-#### fique à vontade 😉
+## Opa, me chamo Bruno! 😉
 
 <h2 align="center"> Sobre mim ✌</h2>
 <br>
@@ -43,8 +42,4 @@ href="" target="_blank"><img alt="Github"
 src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png" /></a> <a                                                                                     
 href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
 src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" /></a> <a 
-</p>
-<p align="center">
-<img src="https://github.com/pedrorivald/bandeira-brasil/raw/master/estrelas.PNG" width="210" height="99"/>
-<br>
 </p>
