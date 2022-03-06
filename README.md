@@ -25,8 +25,8 @@ Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre cham
 <p align="center">
   <br/>
   <br/>
-<a target="_blank"><img alt="GitHub" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true"/></a>
-<a target="_blank"><img alt="GitHub" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true"/></a>
+<a target="_blank"><img alt="python" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true"/></a>
+<a target="_blank"><img alt="vscode" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true"/></a>
   <br/>
   <br/>
     </p>
@@ -34,12 +34,12 @@ Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre cham
 <br/>
 
 <p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
+href="https://github.com/BrunoCalves" target="_blank"><img alt="Github" 
 src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png?raw=true?´" /></a> <a                      
-href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" 
+href="https://twitter.com/__Burunu" target="_blank"><img alt="Twitter" 
 src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png?raw=true" /></a> <a 
-href="" target="_blank"><img alt="Github" 
+href="https://www.instagram.com/burunu__" target="_blank"><img alt="Github" 
 src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png" /></a> <a                                                                                     
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" 
 src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png?raw=true" /></a> <a 
 </p>
