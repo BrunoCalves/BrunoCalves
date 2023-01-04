@@ -15,8 +15,11 @@ Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre cham
 
 <h2 align="center">✍ atualmente estou aprendendo:</h2>
 
-- Python
-- PostgreSQL
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+- POSTEGRES
 
   <br/>
   <br/>
@@ -26,7 +29,6 @@ Hoje trabalho como técnico eletrônico (Apple), porém, os códigos sempre cham
   <br/>
   <br/>
 <a target="_blank"><img alt="python" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png?raw=true"/></a>
-<a target="_blank"><img alt="vscode" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true"/></a>
   <br/>
   <br/>
     </p>
